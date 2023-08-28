@@ -1,5 +1,6 @@
 Overview
-The Dictionary App is a simple web application that allows users to search for the meaning, part of speech, example, synonyms, and antonyms of a word. It utilizes the Dictionary API to fetch word information and display it to the user.
+![Screenshot (67)](https://github.com/divyagupta167/Dictionary-App/assets/54738711/038d1634-ab53-4433-baf2-f8ba1d670572)
+ The Dictionary App is a simple web application that allows users to search for the meaning, part of speech, example, synonyms, and antonyms of a word. It utilizes the Dictionary API to fetch word information and display it to the user.
 
 Features
 Search Functionality: Users can enter a word into the input field and click the "Search" button to fetch its information.
